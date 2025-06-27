@@ -6,7 +6,7 @@ A portfolio is a curated collection that showcases your skills, experiences, and
 Welcome to my **Personal Portfolio** repository!  
 This is a fully responsive website built to showcase my journey, technical skills, and projects in the fields of **Web Development**,**Data Science** and **AI/ML**.
 
-![Portfolio Screenshot](https://github.com/Pavan755/Personal_Portfolio/blob/main/Portfolio/Personal_Portfolio_ScreenShots/Screenshot%202025-06-24%20200119.png)
+![Portfolio Screenshot](https://github.com/Pavan755/My_Portfolio/blob/main/Personal_Portfolio_ScreenShots/Screenshot%202025-06-24%20200119.png)
 
 ---
 
