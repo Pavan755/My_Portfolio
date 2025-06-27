@@ -1,7 +1,7 @@
 # Personal_Portfolio
 A portfolio is a curated collection that showcases your skills, experiences, and achievements in a specific domain. Depending on your field, a portfolio can take different forms.
 
-# 🌐 Personal Portfolio Website
+# 🌐My_Portfolio Website
 
 Welcome to my **Personal Portfolio** repository!  
 This is a fully responsive website built to showcase my journey, technical skills, and projects in the fields of **Web Development**,**Data Science** and **AI/ML**.
